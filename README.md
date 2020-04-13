@@ -4,16 +4,24 @@ This is a minimalistic boilerplate for building web applications using [Node.js]
 
 ## Getting Started
 1. Clone the project
-``` git clone https://github.com/ahmedOpeyemi/typescript-express-boilerplate ```
+    ``` 
+    git clone https://github.com/ahmedOpeyemi/typescript-express-boilerplate 
+    ```
 
 2. Run NPM install
-```
-cd typescript-express-boilerplate
-npm install
-```
+    ```
+    cd typescript-express-boilerplate
+    npm install
+    ```
+    
+## NPM Commands available
+1. 
+
 
 ## Using the boilerplate in VS Code
-
+To start the project, 
+1. Go to run view ⇧⌘D.
+2. Run "Run Express Server"
 
 ## License
 Free to use, free to share.
