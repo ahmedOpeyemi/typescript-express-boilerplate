@@ -15,8 +15,8 @@ This is a minimalistic boilerplate for building web applications using [Node.js]
     ```
     
 ## NPM Commands available
-1. `npm run build` - Transpiles the Typescript to the Javascript equivalent in the dist folder.
-2. `npm run start` - Starts the app and runs it at the port defined.
+1. `npm run build` - Transpiles the TS files to the JS equivalent in the dist folder.
+2. `npm run start` - Starts the app and runs it on the port defined.
 
 
 ## Using the boilerplate in VS Code
