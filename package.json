@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/ahmedOpeyemi/typescript-express-boilerplate#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "winston": "^3.2.1"
   },
   "devDependencies": {
